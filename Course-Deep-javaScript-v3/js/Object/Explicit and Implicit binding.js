@@ -60,7 +60,7 @@ function fn3(){
 }
 const ex = {
     name : 'fayyaz',
-    lname : 'khilji',
+    lname : 'chouhan',
     fn3,
 }
 fn3.call(ex)// Explicit
