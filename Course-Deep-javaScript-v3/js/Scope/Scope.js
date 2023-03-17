@@ -10,6 +10,10 @@ fn()
 
 // Module-Scope
 
+{
+     let a = "mofique"
+     console.log(a)
+}
 // Block-Scope
 
 //  let a = 'khilji' => not run
